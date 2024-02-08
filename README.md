@@ -34,7 +34,10 @@
 
 ## ScreenShots of the APP
 
-![User Interface](./src//assets/ui/hotel.png)
+![User Interface](./src//assets/screenshot/1.png)
+![User Interface](./src//assets/screenshot/2.png)
+![User Interface](./src//assets/screenshot/3.png)
+
 
 ## 🛠 Built With <a name="built-with">
 
