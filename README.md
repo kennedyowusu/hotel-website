@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Hotel Rooms Application</b></h3>
+  <h3><b>Hotel Website</b></h3>
 </div>
 <!-- TABLE OF CONTENTS -->
 
@@ -9,10 +9,9 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [HOTEL ROOMS APPLICATION ](#hotel-rooms-application-)
-  - [ScreenShots of the APP](#screenshots-of-the-app)
+  - [Screenshots of the Website](#screenshots-of-the-website)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
-    - [Live Server ](#live-server-)
   - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
@@ -30,9 +29,9 @@
 
 # HOTEL ROOMS APPLICATION <a name="about-project"></a>
 
-**HOTEL ROOMS APPLICATION** Welcome to KOBICYPHER Hotel, where luxury meets comfort. Our hotel is dedicated to providing a memorable and delightful experience for our guests. Nestled in the heart of Dubai, our prime location offers easy access to popular attractions, vibrant shopping districts, and exquisite dining options.
+**HOTEL WEBSITE** Welcome to KOBICYPHER Hotel, where luxury meets comfort. Our hotel is dedicated to providing a memorable and delightful experience for our guests. Nestled in the heart of Dubai, our prime location offers easy access to popular attractions, vibrant shopping districts, and exquisite dining options.
 
-## ScreenShots of the APP
+## Screenshots of the Website
 
 ![User Interface](./src//assets/screenshot/1.png)
 ![User Interface](./src//assets/screenshot/2.png)
@@ -52,15 +51,10 @@
 
 <details>
   <summary>Client</summary>
-    <li><a href="https://github.com/kennedyowusu/hotel-application.git">FRONTEND</a><li>
+    <li><a href="https://github.com/kennedyowusu/hotel-website.git">FRONTEND</a><li>
 </details>
 
 <p align="right"><a href="#readme-top">front to top</a></p>
-
-### Live Server <a name="live-server"><a>
-
-[HOTEL ROOMS APPLICATION](https://hotel-application.vercel.app/)
-<!-- Key Features -->
 
 ## Key Features <a name="key-features"></a>
 
@@ -72,13 +66,13 @@
 
 ### Prerequisites
 
-- Get started with [REACT](https://guides.rubyonrails.org/getting_started.html).
+- Get started with [REACT]
 
 ### Setup
 
-- Clone this repository by running `git clone https://github.com/kennedyowusu/hotel-application.git` in your command line.
+- Clone this repository by running `git clone https://github.com/kennedyowusu/hotel-website.git` in your command line.
 
-- Navigate to the repository by running `cd hotel-application`.
+- Navigate to the repository by running `cd hotel-website`.
 
 ### Install
 
@@ -116,7 +110,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kennedyowusu/hotel-application.git/issues)
+Feel free to check the [issues page](https://github.com/kennedyowusu/hotel-website.git/issues)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
